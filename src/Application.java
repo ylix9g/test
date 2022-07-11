@@ -55,7 +55,5 @@ public class Application {
     // global - параметры для новых репозиториев.
     // local - параметры специфичные для каждого отдельно взятого
     // репозитория.
-
-    // Test message from new developer
   }
 }
