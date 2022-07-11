@@ -59,5 +59,7 @@ public class Application {
     // Test message from new developer
 
     // Completed 25%
+
+    // Completed 100%
   }
 }
