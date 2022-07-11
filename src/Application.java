@@ -56,5 +56,6 @@ public class Application {
     // local - параметры специфичные для каждого отдельно взятого
     // репозитория.
 
+    // Test message from new developer
   }
 }
