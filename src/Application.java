@@ -57,5 +57,7 @@ public class Application {
     // репозитория.
 
     // Test message from new developer
+
+    // Completed 25%
   }
 }
